@@ -99,7 +99,7 @@ export default {
         }, 0)
         :
         0
-    }
+    },
   },
   data: () => ({
     sheet: {

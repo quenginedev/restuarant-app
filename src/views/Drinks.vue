@@ -1,5 +1,6 @@
 <template>
   <v-container>
+    <h2 class="my-5">Drinks</h2>
     <food-palette v-for="food in fastFood" :food="food"/>
   </v-container>
 </template>
